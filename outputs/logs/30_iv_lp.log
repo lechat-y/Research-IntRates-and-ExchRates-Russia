@@ -1,0 +1,13 @@
+##############################################################################
+# 30_iv_lp.R   (2026-10-15 23:16:11)
+##############################################################################
+[NOT ESTIMATED] iv_lp_6lags_linear_levels_2013m01_reer
+   all: weak instrument: HAC first-stage F of z = 5.4 (n = 151) is below 10; the IV IRF and its bands are not reliable.
+Warning: conversion failure on '(appreciation ↑)' in 'mbcsToSbcs': for ↑ (U+2191) 
+[PARTIAL] iv_lp_1lags_regime2022m03_levels_2013m01_reer
+   post: weak instrument: HAC first-stage F of z = 4.4 (n = 46) is below 10; the IV IRF and its bands are not reliable.
+Warning: conversion failure on '(appreciation ↑)' in 'mbcsToSbcs': for ↑ (U+2191) 
+[PARTIAL] iv_lp_2lags_regime2022m03_levels_2013m01_reer
+   post: weak instrument: HAC first-stage F of z = 1.4 (n = 45) is below 10; the IV IRF and its bands are not reliable.
+
+[30_iv_lp.R finished in 2 s]

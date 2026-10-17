@@ -1,0 +1,7 @@
+##############################################################################
+# 01_prepare_data.R   (2026-10-17 22:24:31)
+##############################################################################
+df_logs: 157 months (2013-01-01 .. 2026-01-01); df_diff: 156 months
+Written: /Users/lesha/Desktop/repository/data/processed/analysis_data.rds 
+
+[01_prepare_data.R finished in 4 s]

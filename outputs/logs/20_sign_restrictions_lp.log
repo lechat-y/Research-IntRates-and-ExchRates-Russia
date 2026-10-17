@@ -1,0 +1,23 @@
+##############################################################################
+# 20_sign_restrictions_lp.R   (2026-10-15 23:16:08)
+##############################################################################
+Warning: conversion failure on '(appreciation ↑)' in 'mbcsToSbcs': for ↑ (U+2191) 
+[OK] signrestr_lp_6lags_linear_levels_2013m01_reer_restrA-irf-fullrule
+Warning: conversion failure on '(appreciation ↑)' in 'mbcsToSbcs': for ↑ (U+2191) 
+[OK] signrestr_lp_1lags_regime2022m03_levels_2013m01_reer_restrA-irf-fullrule
+Warning: conversion failure on '(appreciation ↑)' in 'mbcsToSbcs': for ↑ (U+2191) 
+[OK] signrestr_lp_2lags_regime2022m03_levels_2013m01_reer_restrA-irf-fullrule
+Warning: conversion failure on '(appreciation ↑)' in 'mbcsToSbcs': for ↑ (U+2191) 
+[OK] signrestr_lp_6lags_linear_levels_2013m01_reer_restrB-irf-only
+Warning: conversion failure on '(appreciation ↑)' in 'mbcsToSbcs': for ↑ (U+2191) 
+[OK] signrestr_lp_1lags_regime2022m03_levels_2013m01_reer_restrB-irf-only
+Warning: conversion failure on '(appreciation ↑)' in 'mbcsToSbcs': for ↑ (U+2191) 
+[OK] signrestr_lp_2lags_regime2022m03_levels_2013m01_reer_restrB-irf-only
+Warning: conversion failure on '(appreciation ↑)' in 'mbcsToSbcs': for ↑ (U+2191) 
+[OK] signrestr_lp_6lags_linear_levels_2013m01_reer_restrC-irf-partialrule
+Warning: conversion failure on '(appreciation ↑)' in 'mbcsToSbcs': for ↑ (U+2191) 
+[OK] signrestr_lp_1lags_regime2022m03_levels_2013m01_reer_restrC-irf-partialrule
+Warning: conversion failure on '(appreciation ↑)' in 'mbcsToSbcs': for ↑ (U+2191) 
+[OK] signrestr_lp_2lags_regime2022m03_levels_2013m01_reer_restrC-irf-partialrule
+
+[20_sign_restrictions_lp.R finished in 3 s]

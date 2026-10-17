@@ -1,0 +1,11 @@
+##############################################################################
+# 40_lp_nl.R   (2026-10-15 23:16:13)
+##############################################################################
+Warning: conversion failure on '(appreciation ↑)' in 'mbcsToSbcs': for ↑ (U+2191) 
+[OK] rc_l1
+Warning: conversion failure on '(appreciation ↑)' in 'mbcsToSbcs': for ↑ (U+2191) 
+[OK] rc_l2
+Warning: conversion failure on '(appreciation ↑)' in 'mbcsToSbcs': for ↑ (U+2191) 
+[OK] rc_l3
+
+[40_lp_nl.R finished in 2 s]
