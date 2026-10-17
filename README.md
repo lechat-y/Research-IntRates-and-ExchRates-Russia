@@ -2,7 +2,7 @@
 
 Empirical part of a study of how Bank of Russia monetary policy affects the real effective exchange rate of the ruble (REER). The code estimates impulse responses of the REER to a contractionary monetary policy shock (a rise in RUONIA) with **local projections (LP)**. The main implementation is **LP with sign restrictions**: the monetary policy shock is identified through sign restrictions on impulse responses and on the implied policy rule, and the result is reported as the exact identified set of the REER response together with its median. Cholesky LP, LP-IV and a nonlinear (regime-switching) LP are estimated alongside for comparison.
 
-[Full text available here]([https://github.com/username/repository](https://www.dropbox.com/scl/fi/ixy1rja67f7oga843e17v/irer.pdf?rlkey=vbuob78c9palfth8qt5rfgww5&st=io1wpscl&e=1&dl=0))
+[Full text available here](https://www.dropbox.com/scl/fi/ixy1rja67f7oga843e17v/irer.pdf?rlkey=vbuob78c9palfth8qt5rfgww5&st=io1wpscl&e=1&dl=0)
 
 ## Data
 
