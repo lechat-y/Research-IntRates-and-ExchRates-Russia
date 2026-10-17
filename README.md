@@ -1,4 +1,4 @@
-# Interest Rates and the Exchange Rate in Russia
+# Monetary Policy and the Exchange Rate in post-2022 Russia
 
 Empirical part of a study of how Bank of Russia monetary policy affects the real effective exchange rate of the ruble (REER). The code estimates impulse responses of the REER to a contractionary monetary policy shock (a rise in RUONIA) with **local projections (LP)**. The main implementation is **LP with sign restrictions**: the monetary policy shock is identified through sign restrictions on impulse responses and on the implied policy rule, and the result is reported as the exact identified set of the REER response together with its median. Cholesky LP, LP-IV and a nonlinear (regime-switching) LP are estimated alongside for comparison.
 
